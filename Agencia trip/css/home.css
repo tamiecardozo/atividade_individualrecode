@@ -1,0 +1,32 @@
+.container-fluid{
+   background-color:  goldenrod;
+
+   width:max-content;
+}
+
+.text{
+font-style: italic;
+font-family: "Comic Sans";
+color: black;
+text-align: center;
+}
+
+.text1{
+    font-family: "Comic Sans";
+    text-align: center;
+    color: goldenrod;
+}
+
+.text2{
+
+font-family: "Comic Sans";
+text-align: center;
+    color: black;
+}
+
+body{
+    background-image:url(../imagens/avião.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}

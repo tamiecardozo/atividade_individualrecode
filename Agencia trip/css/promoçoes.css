@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: goldenrod;
+
+    width: max-content;
+}
+
+body{
+
+    background-image: url(../imagens/sub-pacotes-dez-2020-2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

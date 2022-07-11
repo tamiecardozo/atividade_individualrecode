@@ -1,0 +1,13 @@
+.container-fluid {
+    background-color: goldenrod;
+
+    width: max-content;
+}
+
+body{
+    background-image: url(../imagens/paris.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}

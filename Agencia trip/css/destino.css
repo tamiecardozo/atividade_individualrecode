@@ -1,0 +1,95 @@
+.container-fluid {
+    background-color: goldenrod;
+
+    width: max-content;
+}
+body {
+        background-image: url(../imagens/Louvre.webp);
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+
+    }
+
+    textarea:focus,
+    input:focus {
+        outline: none;
+    }
+
+    a {
+        font-size: .8rem;
+    }
+
+    a:hover {
+        color: darkblue;
+    }
+
+    #login-container {
+        background-color: aliceblue;
+
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px 30px;
+        margin-top: 10vh;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    form {
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+
+    label,
+    input {
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    input {
+        border-bottom: 2px solid #323232;
+        padding: 10px;
+        font: size 1rem;
+        margin: bottom 20px;
+    }
+
+        input:focus {
+            border-bottom: 2px solid rgb(73, 57, 188);
+        }
+    
+        #forgot-pass {
+            text-align: right;
+            display: block;
+        }
+    
+        input[type="submit"] {
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: bold;
+            border: none;
+            height: 40px;
+            border-radius: 20px;
+            margin-top: 30px;
+            color: aliceblue;
+            background-color: goldenrod;
+            cursor: pointer;
+        }
+    
+        input[type="submit"]:hover {
+            background-color: midnightblue;
+            transition: 0.5s;
+    
+        }
+    
+        #register-container p {
+            margin-bottom: 10px;
+        }
+
+    
+        
